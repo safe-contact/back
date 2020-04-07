@@ -3,19 +3,19 @@
 
 ## About Safe Contact
 
-##Principle
+## Principle
  
 This application aims to receive data from meetings between users. These users are unique thanks to a randomly generated uuid and a hash of its device id. It is therefore impossible to find and identify the person.
 
 These users will be able to declare themselves to be sick anonymously in order to notify the people they have met.
 
-##Legal Informations
+## Legal Informations
 
-####RGPD Complient
+#### RGPD Complient
 
 We don't record any personal data . So this application is **RGPD complient**. 
 
-##Technical Informations
+## Technical Informations
 
 This application uses the Laravel 7 framework (php).
 
